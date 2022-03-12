@@ -1,0 +1,14 @@
+body,
+html {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  /* font-weight: 600; */
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+.long_div{
+    width: 1000px;
+    background-color: #3b3b3b;
+}
