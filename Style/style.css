@@ -9,6 +9,18 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 700;
 }
 .long_div{
-    width: 1000px;
+    height: 1000px;
     background-color: #3b3b3b;
+}
+.controller{
+    position: absolute;
+    top: 20px;
+    width: auto;
+    max-height: 400px;
+    overflow: auto;
+    right: 20px;
+}
+div#show_Elements_QWERTY h1,div#show_Elements_QWERTY h2,div#show_Elements_QWERTY h3,div#show_Elements_QWERTY h4,div#show_Elements_QWERTY h5,div#show_Elements_QWERTY h6{
+    font-size: 12px;
+    font-weight: 600;
 }
